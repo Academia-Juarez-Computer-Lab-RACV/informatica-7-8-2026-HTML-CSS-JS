@@ -87,6 +87,7 @@
                 "gitdoc.commitValidationLevel": "none",
                 "gitdoc.pullOnOpen": false,
                 "chat.disableAIFeatures": true,
+                "chat.commandCenter.enabled": false,
                 "html.autoCreateQuotes": false,
                 "html.format.indentInnerHtml": true,
                 "html.suggest.html5": false,
@@ -208,6 +209,7 @@
     }
 
 }
+
 
 
 
