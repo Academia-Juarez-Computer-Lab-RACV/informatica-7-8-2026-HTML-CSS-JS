@@ -95,6 +95,8 @@
                 "gitdoc.commitValidationLevel": "none",
                 "gitdoc.pullOnOpen": false,
                 "chat.disableAIFeatures": true,
+                "github.copilot.enable": { "*": false },
+                "github.copilot.chat.enable": false,
                 "html.autoCreateQuotes": false,
                 "html.format.indentInnerHtml": true,
                 "html.suggest.html5": false,
@@ -216,4 +218,5 @@
     }
 
 }
+
 
