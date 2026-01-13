@@ -1,6 +1,7 @@
 {
     "name": "Informatica 7-8 Web Dev Codespaces Setup",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+    "postCreateCommand": "cat .devcontainer/customize-prompt.sh >> ~/.bashrc",
     "customizations": {
         "vscode": {
                         "extensions": [
@@ -215,6 +216,7 @@
     }
 
 }
+
 
 
 
